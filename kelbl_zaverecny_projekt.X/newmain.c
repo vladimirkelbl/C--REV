@@ -1,20 +1,20 @@
 /*
  * File:   newmain.c
- * Author: VladimÌr Kelbl
+ * Author: Vladim√≠r Kelbl
  *
- * M·m kit Cislo 9.
+ * M√°m kit cislo 9.
  * 0:GPIO-Tetris
  * 1:UART-Mod kalkulacka secteni/odecteni dvou cisel
  * 2:PWM-Ovladani rychlosti motoru potenciometrem bez led
  * 3:ADC-Ovladani bargraph (led) POT1
  * 4:GAME-1D Pong 
  * 
- * pozn·mky vyvojare
+ * pozn√°mky vyvojare
  * 0: funguje
  * 1: nefunguje spravne vypsani vysledku a vraceni se do menu
  * 2: funguje
  * 3: funguje
- * 4: funguje, jen se mi nepodarilo dat znak ASCII 219 jako odpalova palky. Podle mne to nejde.
+ * 4: funguje
  */
 
 
