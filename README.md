@@ -1,4 +1,4 @@
-# projekt
+### Aplikace pro 
 Závěrečný projekt předmětu "Aplikace embedded systémů v mechatronice"
 
 Krátký popis:
